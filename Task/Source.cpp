@@ -1,6 +1,11 @@
 #include <iostream>
 #include <string>
-
+/**
+* Done by:
+* Student Name: Ivan Rudiy
+* Student Group: 123
+*Lab1.6
+*/
 int main()
 {
 	int nA;
